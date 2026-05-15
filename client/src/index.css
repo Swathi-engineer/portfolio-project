@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+@theme {
+  --color-dark-card: #0f0b1a;
+}
